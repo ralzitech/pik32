@@ -8,6 +8,7 @@ This guide will teach you how to use it!
 
 - Unlocked Bootloader
 - TWRP [(Located here)](https://forum.xda-developers.com/t/recovery-unofficial-twrp-for-galaxy-a32-5g-mediatek.4286631/)
+- The Pik32 Script [(Located here)](https://github.com/pik32/releases/)
 - A Samsung Galaxy A32 5G
 - A Windows PC with Administrator privileges and atleast 5 Gigabytes of space
 - USB debugging enabled
